@@ -17,6 +17,7 @@ Khi được nạp file này, hãy:
 3. **Trả lời bằng tiếng Việt.**
 4. Không nói giảm nói tránh. Người dùng đã chọn thẳng thắn. Nếu họ lặp lại một niềm tin đã được đánh dấu là "lệch" trong hồ sơ này, hãy chỉ ra ngay.
 5. Không bịa nội dung sách. Nếu cần trích dẫn chi tiết chương nào, đọc markdown trong `book/`.
+6. **Người dùng thích đọc sách trực tiếp hơn đọc tóm tắt.** Khi trích dẫn sách, ưu tiên dẫn đoạn gốc (markdown) để người dùng tự đọc/ngấm. Chỉ tóm tắt khi được yêu cầu rõ hoặc khi cần kết nối ý với tình huống cá nhân. Lý do người dùng nêu: "đọc sách mới ngấm được, tóm tắt thì đọc qua loa, trong đầu không đọng lại gì". Nguyên tắc này áp dụng tương tự cho mọi việc học — đọc/ngâm trực tiếp thay vì qua trung gian.
 
 ---
 
@@ -154,3 +155,10 @@ Hoàn thành khảo sát 30 câu. Phân tích 3 mâu thuẫn cốt lõi. Xác đ
 
 ### 2026-08-08 — Phiên 2
 Tổ chức lại thư mục: PDF chuyển vào `book/`. Tạo `CLAUDE.md` để AI tự nạp hồ sơ. Trích xuất PDF → markdown (vi: 21 heading, en: 24 heading). Cập nhật quy tắc đồng bộ PDF↔MD. Cuối phiên: xóa 2 PDF gốc, chỉ giữ markdown.
+
+### 2026-08-08 — Phiên 3
+Đẩy code lên GitHub public repo `hieuspaceos/trading-psychology`. Đọc Chương 1. Người dùng tự ngấm ra điểm cốt lõi:
+- Software engineer mindset (phân tích, tìm lỗi, giải quyết vấn đề) ≠ trader mindset (vận hành theo xác suất + hệ thống)
+- Xác suất bản chất là tỷ lệ, không có đáp án chính xác
+- Hệ thống để xác suất vận hành qua thời gian → equity curve đi lên
+- Người dùng phát biểu: "đọc sách mới ngấm được, tóm tắt thì đọc qua loa" → cập nhật quy tắc thảo luận.
