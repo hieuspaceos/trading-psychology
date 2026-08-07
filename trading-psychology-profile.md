@@ -162,3 +162,7 @@ Tổ chức lại thư mục: PDF chuyển vào `book/`. Tạo `CLAUDE.md` để
 - Xác suất bản chất là tỷ lệ, không có đáp án chính xác
 - Hệ thống để xác suất vận hành qua thời gian → equity curve đi lên
 - Người dùng phát biểu: "đọc sách mới ngấm được, tóm tắt thì đọc qua loa" → cập nhật quy tắc thảo luận.
+
+Tiếp tục đọc Chương 1. Người dùng tự phát biểu:
+- "Hầu hết các nhà phân tích thị trường giỏi nhất trong ngành đều là những nhà giao dịch tồi tệ nhất" → phản ứng ngạc nhiên → tự lý giải: khi càng phân tích, họ càng củng cố cái tôi, kiến thức và luận điểm → đi ngược xác suất.
+- Đi đến kết luận của Chương 1: "Tất cả trader đều học được điều gì đó về thị trường; nhưng rất ít người học được thái độ cần thiết để trở thành người chiến thắng nhất quán."
