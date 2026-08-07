@@ -166,3 +166,35 @@ Tổ chức lại thư mục: PDF chuyển vào `book/`. Tạo `CLAUDE.md` để
 Tiếp tục đọc Chương 1. Người dùng tự phát biểu:
 - "Hầu hết các nhà phân tích thị trường giỏi nhất trong ngành đều là những nhà giao dịch tồi tệ nhất" → phản ứng ngạc nhiên → tự lý giải: khi càng phân tích, họ càng củng cố cái tôi, kiến thức và luận điểm → đi ngược xác suất.
 - Đi đến kết luận của Chương 1: "Tất cả trader đều học được điều gì đó về thị trường; nhưng rất ít người học được thái độ cần thiết để trở thành người chiến thắng nhất quán."
+
+## 4 NỖI SỢ CHÍNH (Mark Douglas)
+
+Douglas xác định 4 nỗi sợ cốt lõi trong trading. Thái độ của trader với 4 thứ này quyết định mọi hành vi trên thị trường:
+
+| # | Nỗi sợ | Hành vi sinh ra | Khớp với câu khảo sát |
+|---|---|---|---|
+| 1 | **Bị mắc sai lầm** (being wrong) | Không vào lệnh, hoặc đảo vị thế chậm | Câu 7 (đợi chắc chắn), câu 10 (khó đảo vị thế) |
+| 2 | **Thua lỗ tiền bạc** (losing money) | Không cắt lỗ, gồng lệnh, hoặc không vào lệnh | Câu 21 (không chốt lỗ/lãi), câu 26 (mất ngủ), câu 14 (khó buông bỏ) |
+| 3 | **Bỏ lỡ cơ hội** (missing out) | FOMO, vào lệnh ngoài kế hoạch, nhảy khung thời gian | Câu 18 (không bám 1 khung), câu 27 (FOMO) |
+| 4 | **Chốt lợi nhuận không trọn vẹn** (leaving money on the table) | Không chốt lời theo kế hoạch, đặt target quá xa | Câu 21 (không chốt lãi), câu 22 (không bao giờ thấy đủ) |
+
+### Cơ chế cốt lõi
+
+> *"Nỗi sợ hãi của bạn sẽ hành động chống lại bạn theo cách thúc đẩy bạn gây ra chính điều bạn sợ hãi."*
+
+- Sợ sai → không vào lệnh → bỏ lỡ → FOMO vào muộn → sai
+- Sợ thua → không cắt lỗ → lỗ lớn hơn
+- Sợ bỏ lỡ → FOMO → vào lệnh xấu → thua
+- Sợ chốt non → không chốt → đảo chiều → chốt lỗ
+
+Nỗi sợ **tự nó tạo ra điều nó sợ** — một cái vòng lặp tự củng cố.
+
+### Hệ quả cho người dùng
+
+Cả 4 nỗi sợ đều **rất có thể đang vận hành** dựa trên kết quả khảo sát:
+- Sợ #1 hiện diện yếu (câu 10: không đồng ý với "khó đảo vị thế" — điểm sáng duy nhất)
+- Sợ #2 rõ (câu 21, 26, 14)
+- Sợ #3 rõ (câu 27 FOMO, câu 18 nhảy khung)
+- Sợ #4 rõ (câu 21, 22)
+
+→ Trader nhất quán theo Douglas: **không có 4 nỗi sợ này ở mức điều khiển hành vi**. Có thể vẫn cảm nhận, nhưng không để nó chặn hành động đúng theo hệ thống.
