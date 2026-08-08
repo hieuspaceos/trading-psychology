@@ -280,3 +280,36 @@ Làm lại 30 câu sau khi đọc xong Chương 1–2 và ngấm các khái ni�
 
 ### 2026-08-08 — Phiên 4
 Làm lại khảo sát 30 câu sau khi đọc Chương 1–2. Thay đổi ấn tượng: 8/14 triệu chứng hết, 5/8 niềm tin về thị trường đảo đúng hướng. Đặc biệt câu 25 chuyển từ "muốn dự đoán" sang "muốn không can thiệp" — bước nhảy tư duy quan trọng nhất. Còn lại 5 triệu chứng (21, 23, 29, 11, 12) cần thực hành mới giải quyết được, đặc biệt là bài tập 20 lệnh (Chương 11).
+
+### 2026-08-09 — Phiên 5
+Người dùng đặt câu hỏi sâu về nghịch lý "tin tưởng tuyệt đối vào bản thân" trong khi đang thua liên tục. Mình giải thích: tin ở đây = tin vào hệ thống và quy trình, KHÔNG phải tin lệnh sẽ thắng.
+
+Người dùng tự phát biểu chu trình "trade → thua → sửa hệ thống → backtest → lặp lại" và hỏi đây có phải cách xây tự tin. Đây là bẫy "hố đen phân tích" — cập nhật hệ thống liên tục không xây được tự tin vì mỗi lần đổi = về 0 evidence.
+
+Cách đúng: Backtest 1 lần để xác nhận edge → DỪNG cập nhật → 20 lệnh live size nhỏ → sau 20 lệnh mới đánh giá. Hai bước tách biệt: backtest chứng minh edge tồn tại, 20 lệnh chứng minh người dùng có thể thực thi hệ thống đó.
+
+## QUY TRÌNH BACKTEST (đã ghi nhận để áp dụng)
+
+### Quy trình chuẩn
+
+1. Viết quy tắc ra giấy (vào/ra/size) — đủ rõ để 3 người khác nhau áp dụng cho cùng biểu đồ ra cùng tín hiệu
+2. Chọn dữ liệu: cùng thị trường + khung TG + đủ 100-200 tín hiệu
+3. Chạy từng tín hiệu một, ghi nhận đầy đủ
+4. Tính chỉ số: win rate, R:R trung bình, profit factor, max drawdown, expected value/lệnh, số mẫu
+5. Đánh giá có edge: profit factor > 1.5, win rate × R:R > 1, max drawdown chấp nhận được, sample size ≥ 100
+
+### Bẫy phổ biến
+
+- Backtest lý tưởng (nhìn tương lai, chỉ chọn lệnh thắng)
+- Sample size quá nhỏ (< 100 mẫu)
+- Tối ưu quá đà (thử 50 biến thể trên dữ liệu → chọn "tốt nhất" = ngẫu nhiên)
+- Quên chi phí (spread, commission, slippage)
+
+### Hai bước tách biệt để thành công
+
+```
+Bước 1: Backtest → chứng minh hệ thống CÓ edge (lý thuyết)
+Bước 2: 20 lệnh live size nhỏ → chứng minh người dùng CÓ THỂ thực thi (thực tế)
+```
+
+Bước 1 mà thiếu bước 2 = có lý thuyết nhưng không tự tin thực hành. Bước 2 mà thiếu bước 1 = trade hệ thống có thể không có edge.
