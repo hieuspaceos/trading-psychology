@@ -198,3 +198,85 @@ Cả 4 nỗi sợ đều **rất có thể đang vận hành** dựa trên kết
 - Sợ #4 rõ (câu 21, 22)
 
 → Trader nhất quán theo Douglas: **không có 4 nỗi sợ này ở mức điều khiển hành vi**. Có thể vẫn cảm nhận, nhưng không để nó chặn hành động đúng theo hệ thống.
+
+---
+
+## KẾT QUẢ KHẢO SÁT LẦN 2 (sau khi đọc Chương 1–2)
+
+Làm lại 30 câu sau khi đọc xong Chương 1–2 và ngấm các khái niệm: thái độ ≠ kỹ thuật, xác suất, 4 nỗi sợ, không dự đoán, không liều lĩnh + không sợ hãi.
+
+### Nhóm A — Niềm tin về thị trường (5/8 đảo đúng, 1 vẫn lệch)
+
+| Câu | Lần 1 | Lần 2 | Hướng sách | Đúng? |
+|---|---|---|---|---|
+| 1 | Đồng ý | **Không đồng ý** | Không đồng ý | ✓ |
+| 2 | Đồng ý | **Không đồng ý** | Không đồng ý | ✓ |
+| 3 | Đồng ý | **Không đồng ý** | Không đồng ý | ✓ |
+| 4 | Không đồng ý | **Đồng ý** | Đồng ý | ✓ (gốc rễ) |
+| 6 | Đồng ý | Đồng ý | Đồng ý | = giữ ✓ |
+| 7 | Không đồng ý | Không đồng ý | Không đồng ý | = giữ ✓ |
+| 8 | Đồng ý | **Không đồng ý** | Không đồng ý | ✓ |
+| 16 | Đồng ý | Đồng ý | Không đồng ý | ✗ vẫn lệch |
+
+### Nhóm B — Kỷ luật quy trình (1 cải thiện, 1 thụt lùi)
+
+| Câu | Lần 1 | Lần 2 | Hướng sách | Đúng? |
+|---|---|---|---|---|
+| 5 | Đồng ý | Đồng ý | Đồng ý | = ✓ |
+| 9 | Đồng ý | Đồng ý | Đồng ý | = ✓ |
+| 18 | Không đồng ý | **Đồng ý** | Đồng ý | ✓ |
+| 19 | Đồng ý | **Không đồng ý** | Đồng ý | ⚠️ **thụt lùi** |
+| 24 | Đồng ý | Đồng ý | Đồng ý | = ✓ |
+
+⚠️ Câu 19 thụt lùi: "Giao dịch thành công đòi hỏi linh hoạt tinh thần vượt xa phạm vi hầu hết mọi người". Có thể đang hiểu "linh hoạt" theo hướng "linh hoạt phá kế hoạch". Cần xem lại.
+
+### Nhóm C — Triệu chứng (8/14 hết triệu chứng)
+
+| Câu | Lần 1 | Lần 2 | Ghi chú |
+|---|---|---|---|
+| 10 | Không đồng ý | Không đồng ý | = điểm sáng duy trì |
+| 11 | Đồng ý | Đồng ý | = quá khứ |
+| 12 | Đồng ý | Đồng ý | = quá khứ |
+| 13 | Đồng ý | **Không đồng ý** | ✓ hết |
+| 14 | Đồng ý | **Không đồng ý** | ✓ hết |
+| 17 | Đồng ý | **Không đồng ý** | ✓ hết |
+| 20 | Đồng ý | **Không đồng ý** | ✓ hết |
+| 21 | Đồng ý | **Đồng ý** | ⚠️ còn |
+| 22 | Đồng ý | **Không đồng ý** | ✓ hết |
+| 23 | Đồng ý | **Đồng ý** | ⚠️ còn (bẫy) |
+| 26 | Đồng ý | **Không đồng ý** | ✓ hết |
+| 27 | Có | **Không** | ✓ hết |
+| 28 | Đồng ý | **Không đồng ý** | ✓ hết |
+| 29 | Có | **Có** | ⚠️ còn |
+
+### Câu tự luận
+
+**Câu 25 — điều ước:**
+- Lần 1: *"kỹ năng dự đoán xu hướng"* (analyst mindset)
+- Lần 2: *"vào lệnh xong thì tắt máy, không làm gì đến ngày hôm sau"* (trader mindset)
+- → Chuyển dịch cốt lõi: từ "cần biết trước" sang "cần kỷ luật không can thiệp"
+
+**Câu 30 — tại sao trader thất bại:**
+- Lần 1: *"phương pháp không đủ tốt, không biết đủ, tham hơn mức"*
+- Lần 2: *"xác suất — biểu đồ tăng sau N lệnh; không giữ được vì không nhất quán và không tự tin vào bản thân"*
+- → Từ đổ lỗi phương pháp/kiến thức → hiểu cơ chế xác suất + tâm lý
+
+### Tổng kết thay đổi
+
+| Chỉ số | Lần 1 | Lần 2 |
+|---|---|---|
+| Niềm tin sai về thị trường | 6/8 | 1/8 |
+| Triệu chứng tâm lý dương tính | 13/14 | 5/14 |
+
+### Phân tích phần còn lại
+
+**5 triệu chứng còn:**
+- 11, 12: mô tả quá khứ, không thay đổi được
+- 21: hành vi (không chốt lời) — biết nhưng chưa làm được
+- 23: bẫy "dự đoán tiền kiếm" — biết nhưng vẫn rơi
+- 29: hành vi (phá kế hoạch) — lõi của bài tập 20 lệnh
+
+→ Không giải quyết được bằng đọc thêm. Chỉ thực hành mới chuyển được.
+
+### 2026-08-08 — Phiên 4
+Làm lại khảo sát 30 câu sau khi đọc Chương 1–2. Thay đổi ấn tượng: 8/14 triệu chứng hết, 5/8 niềm tin về thị trường đảo đúng hướng. Đặc biệt câu 25 chuyển từ "muốn dự đoán" sang "muốn không can thiệp" — bước nhảy tư duy quan trọng nhất. Còn lại 5 triệu chứng (21, 23, 29, 11, 12) cần thực hành mới giải quyết được, đặc biệt là bài tập 20 lệnh (Chương 11).
